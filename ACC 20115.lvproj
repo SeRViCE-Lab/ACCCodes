@@ -1703,6 +1703,7 @@ DirectoryIndex index.htm
 		<Item Name="MLS ident.vi" Type="VI" URL="../MLS ident.vi"/>
 		<Item Name="MLS Sequence ident.vi" Type="VI" URL="../Unused VIs/MLS Sequence ident.vi"/>
 		<Item Name="msWait.lvlib" Type="Library" URL="../msWait.lvlib"/>
+		<Item Name="Recursive Model&amp;Adaptive Control.vi" Type="VI" URL="../Recursive Model&amp;Adaptive Control.vi"/>
 		<Item Name="RIO UDP Receiver.vi" Type="VI" URL="../RIO UDP Receiver.vi"/>
 		<Item Name="Sine Wave ident.vi" Type="VI" URL="../Sine Wave ident.vi"/>
 		<Item Name="Soft_Robot Model Two States.vi" Type="VI" URL="../Soft_Robot Model Two States.vi"/>
@@ -1754,6 +1755,7 @@ DirectoryIndex index.htm
 				<Item Name="NI_CD_Model Reduction.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/Control Design/_Model Reduction/NI_CD_Model Reduction.lvlib"/>
 				<Item Name="NI_CD_Model Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/Control Design/_Model Conversions/NI_CD_Model Type.lvlib"/>
 				<Item Name="NI_CD_State Feedback Control.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/Control Design/_State Feedback Control/NI_CD_State Feedback Control.lvlib"/>
+				<Item Name="NI_CD_State-Space Analysis.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/Control Design/_State-Space Analysis/NI_CD_State-Space Analysis.lvlib"/>
 				<Item Name="NI_CD_Stochastic Systems.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/Control Design/_Stochastic Systems/NI_CD_Stochastic Systems.lvlib"/>
 				<Item Name="NI_CD_Time Response.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/Control Design/_Time Response Analysis/NI_CD_Time Response.lvlib"/>
 				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
